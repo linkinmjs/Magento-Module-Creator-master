@@ -1,0 +1,10 @@
+<?xml version="1.0"?>
+<layout version="0.1.0">
+    <default>
+    </default>
+    <lesson5_index_index>
+        <reference name="content">
+            <block type="lesson5/lesson5" name="lesson5" template="lesson5/lesson5.phtml" />
+        </reference>
+    </lesson5_index_index>
+</layout> 

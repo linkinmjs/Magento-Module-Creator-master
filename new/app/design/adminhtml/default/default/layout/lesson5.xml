@@ -1,0 +1,8 @@
+<?xml version="1.0"?>
+<layout version="0.1.0">
+    <lesson5_adminhtml_lesson5_index>
+        <reference name="content">
+            <block type="lesson5/adminhtml_lesson5" name="lesson5" />
+        </reference>
+    </lesson5_adminhtml_lesson5_index>
+</layout>
